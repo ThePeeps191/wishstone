@@ -9,3 +9,8 @@ h1 {
     font-weight: 500;
     font-style: normal;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
